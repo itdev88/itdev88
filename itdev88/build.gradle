@@ -31,7 +31,7 @@ android {
                     from components.release
                     groupId = 'com.github.itdev88'
                     artifactId = 'itdev88'
-                    version = '0.0.9'
+                    version = '0.0.10'
                 }
             }
         }
