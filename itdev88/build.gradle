@@ -30,8 +30,8 @@ android {
                 release(MavenPublication) {
                     from components.release
                     groupId = 'com.github.itdev88'
-                    artifactId = 'itdev88/tree'
-                    version = '0.0.6'
+                    artifactId = 'tree'
+                    version = '0.0.7'
                 }
             }
         }
